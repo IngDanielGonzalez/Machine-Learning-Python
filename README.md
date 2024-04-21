@@ -1,1 +1,1 @@
-# Machine-Learning-python
+Welcome to the culmination of our Data Science certification journey with IBM. In this final project, we leverage a diverse array of models to analyze the provided data meticulously, striving to ascertain the optimal model for our objectives
